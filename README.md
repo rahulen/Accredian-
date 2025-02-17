@@ -63,9 +63,7 @@ Welcome to the frontend of the Refer & Earn application! This user-friendly inte
 - Home Page
 ![HomePage](./public/home1.png)
 ---
-- Refer Notifiction Mail Page
-![Refer-Notifiction-Mail-Page](./public/mail.png)
----
+
 - Refer Page
 ![Refer-Page](./public/refer.png)
 ---
