@@ -25,7 +25,7 @@ Welcome to the frontend of the Refer & Earn application! This user-friendly inte
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/Chandan8018/AccredianFrontend.git ↩
+  
     cd AccredianFrontend ↩
     ```
 
